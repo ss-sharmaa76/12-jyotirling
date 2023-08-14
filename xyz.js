@@ -1,0 +1,1 @@
+<Text style={{color:foreColor,fontWeight:'bold',fontSize:14}}>{title}</Text>

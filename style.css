@@ -1,0 +1,285 @@
+.container{
+
+background-color: rgb(217, 224, 224);
+
+}
+
+
+    
+.overview{
+    background-color: rgb(189, 212, 200);
+}
+
+.txt{
+text-align: justify;
+text-align: left;
+
+}
+
+
+.navscol{
+color:white;
+
+}
+
+
+
+.navcolor{
+    background-color: rgba(245, 245, 245, 0.906);
+}
+
+.mcard{
+margin: 20px;
+padding: 10px;
+background-color: chocolate;
+
+}
+.card1{
+    
+    margin-bottom: 20px;
+   
+}
+
+
+
+
+.navside{
+    align-items:flex-end;
+    -ms-flex-item-align: end;
+
+    
+
+
+}
+
+.abt{
+
+    padding: 50px;
+    color: rgb(1, 1, 1);
+    font-family:'Times New Roman', Times, serif;
+text-align: center;
+font-weight: bold;
+font-size: 5rem;
+
+}
+
+.jyoti{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bolder;
+    color: rgb(75, 60, 189);
+    text-align: center;
+    
+}
+
+
+
+
+
+.pic{
+background-color:darkcyan;
+
+
+
+}
+.ma{
+    
+    margin: left 50px;
+    
+    }
+    
+
+
+
+.banner{
+width: 100%;
+height: 10%;
+
+}
+
+
+.gallery{
+
+
+background-color: cadetblue;
+
+font-size: large;
+font-weight: 400;
+height: 100px;
+}
+
+.cardsimg{
+
+padding: 5px;
+border-radius: 10px;
+background-color: rgb(237, 230, 230);
+margin: 10px;
+
+
+}
+.imgborder{
+border-radius: 20px;
+
+
+}
+.carousel-control-next-icon{
+
+ width: 100px ;
+ height: 150px;
+ color: rgb(215, 250, 218);
+}
+
+
+.carousel-control-prev-icon{
+    width: 100px ;
+    height: 150px;
+    }
+
+.carousel-control-prev{
+
+    color: azure;
+
+}
+
+.carouselExampleDark{
+    background-color: aqua;
+
+}
+.carousel carousel-dark slide{
+    color: blue;
+}
+
+
+
+.bi-whatsapp{
+size: 50px;
+margin-left: 50px;
+color: rgb(13, 242, 81);
+
+
+
+}
+.hove{
+
+color: black;
+transition: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+
+.hove:hover{
+
+color: blueviolet;
+  
+
+}
+
+/* navvar */
+
+
+.carousel-inner{
+ height: 30%;
+    width: 95%;
+    margin: auto;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+
+
+.mob-action {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: var(--color-dark-1);
+    font-weight: 800;
+    box-shadow: 0 1px 6px 2px rgba(11, 11, 11, 0.4);
+    z-index: 1030;
+  }
+  .mob-action li{
+    background-color: red;
+  }
+  
+   .nav-item {
+    padding: 10px 0;
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    width: 32%;
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  
+  }
+
+
+  .space{
+
+margin-left: 2%;
+
+  }
+
+  .btnn
+  {
+
+
+display:flex;
+align-items: center;
+justify-content: center;
+margin-bottom: 20px;
+
+
+
+  }
+
+  .btn-primary{
+    background-color:rgb(19, 183, 66);
+    color: azure;
+
+  }
+
+  .herocard{
+
+
+    width: 40%; height: 70%; top: 25%; position: absolute; background: #e7e6e3;
+    right: 10%; opacity: 80%; border-bottom: 5px solid black; border-radius:10px ;
+  }
+
+
+  .box{
+  width: 90%;
+  height: 70%;
+  background:black;
+  position:  relative;
+  margin-left: 6%;
+  color: rgb(21, 241, 62);
+  text-align: center;
+  margin-top: 2%;
+  border-radius:10px ;
+    
+    
+    }
+
+    .bi-telephone-fill{
+      color:rgb(251, 233, 233);
+      margin-left: 20px;
+    }
+
+   .bi-telephone-fill:hover{
+      color:green;
+    }
+    
+.card2{
+
+
+  color: rgb(218, 18, 152);
+
+
+}
+
+
+.card-body{
+
+background-color: chocolate;
+
+}
