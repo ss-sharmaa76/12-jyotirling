@@ -283,3 +283,17 @@ margin-bottom: 20px;
 background-color: chocolate;
 
 }
+
+@media(max-width:767){
+
+  .mcard{
+align-items: center;
+justify-content: center;
+
+display: flex;
+
+
+  }
+
+}
+
